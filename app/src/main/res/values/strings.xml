@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Country Quiz</string>
+    <string name="results_format">You scored %1$d out of 12 questions!</string>
+</resources>
